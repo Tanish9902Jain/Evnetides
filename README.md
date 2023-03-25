@@ -8,3 +8,7 @@ Eventides is Event Management Platform made for Event Planners which can help th
 <img src =  "https://user-images.githubusercontent.com/128716572/227699563-8aea565e-36a4-4608-9fb9-d06ebb567118.jpg" width = "1200" height = "600" >
 <img src =  "https://user-images.githubusercontent.com/128716572/227699476-8c65ce2e-8070-40ae-90ce-00916c758292.jpg" width = "1200" height = "600" >
 
+# Techstacks Used
+1. HTML5
+2. CSS3
+3. JavaScript
