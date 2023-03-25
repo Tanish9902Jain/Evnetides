@@ -3,10 +3,8 @@ Eventides is Event Management Platform made for Event Planners which can help th
 
 # Glimpses of Eventides
 <img src =  "https://user-images.githubusercontent.com/128716572/227699203-b59ade7b-3071-4a35-9c08-10c4dc2ff189.jpg" width = "1200" height = "600" >
-<img src =  "" width = "400" height = "300" >
-<img src =  "" width = "400" height = "300" >
+<img src =  "https://user-images.githubusercontent.com/128716572/227699513-6bae2f6d-eb47-4d61-bc53-55d94debc3dc.jpg" width = "1200" height = "600" >
+<img src =  "https://user-images.githubusercontent.com/128716572/227699527-9138833f-9542-422c-9070-8dfefc8bb11e.jpg" width = "1200" height = "600" >
+<img src =  "https://user-images.githubusercontent.com/128716572/227699210-9d475db9-3543-4a37-866b-8abd649ef8c9.jpg" width = "1200" height = "600" >
+<img src =  "https://user-images.githubusercontent.com/128716572/227699476-8c65ce2e-8070-40ae-90ce-00916c758292.jpg" width = "1200" height = "600" >
 
-![Screenshot 2023-03-25 105915](https![Screenshot 2023-03-25 110848](https://user-images.githubusercontent.com/128716572/227699215-a46f27da-33cd-4135-8fe4-8b3aba0a2aba.jpg)
-://user-images.githubusercontent.com/128716572/227699207-c1865008-1416-488d-bc89-3763b10e86c5.jpg)
-![Screenshot 2023-03-25 105940](https://user-images.githubusercontent.com/128716572/227699210-9d475db9-3543-4a37-866b-8abd649ef8c9.jpg)
-![Screenshot 2023-03-25 110027](https://user-images.githubusercontent.com/128716572/227699212-920b06c4-8fac-419a-9af8-11f96d6bd94
