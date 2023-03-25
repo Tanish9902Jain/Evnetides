@@ -5,6 +5,6 @@ Eventides is Event Management Platform made for Event Planners which can help th
 <img src =  "https://user-images.githubusercontent.com/128716572/227699203-b59ade7b-3071-4a35-9c08-10c4dc2ff189.jpg" width = "1200" height = "600" >
 <img src =  "https://user-images.githubusercontent.com/128716572/227699513-6bae2f6d-eb47-4d61-bc53-55d94debc3dc.jpg" width = "1200" height = "600" >
 <img src =  "https://user-images.githubusercontent.com/128716572/227699527-9138833f-9542-422c-9070-8dfefc8bb11e.jpg" width = "1200" height = "600" >
-<img src =  "https://user-images.githubusercontent.com/128716572/227699210-9d475db9-3543-4a37-866b-8abd649ef8c9.jpg" width = "1200" height = "600" >
+<img src =  "https://user-images.githubusercontent.com/128716572/227699563-8aea565e-36a4-4608-9fb9-d06ebb567118.jpg" width = "1200" height = "600" >
 <img src =  "https://user-images.githubusercontent.com/128716572/227699476-8c65ce2e-8070-40ae-90ce-00916c758292.jpg" width = "1200" height = "600" >
 
