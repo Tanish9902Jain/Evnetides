@@ -12,3 +12,5 @@ Eventides is Event Management Platform made for Event Planners which can help th
 1. HTML5
 2. CSS3
 3. JavaScript
+
+Hi This is sample code
